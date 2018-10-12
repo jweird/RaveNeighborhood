@@ -7,6 +7,25 @@ body {
   background-color: purple !important;
 }
 
+#subpageHead {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 72px;
+  padding: 150px;
+  color: black;
+  margin: 0px;
+}
+
+#submitHead {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 72px;
+  padding: 200px;
+  background-color: black;
+  color: white;
+  margin: 0px;
+}
+
 #homeHead {
   font-family: sans-serif;
   text-align: center;
@@ -25,4 +44,18 @@ nav {
 
 .nav a {
   color: white;
+}
+
+
+form{
+  justify-content: center;
+  margin: 0 auto;
+  width: 80%;
+  font-size: 27px;
+  background-color: #bbc3f7;
+  padding: 50px;
+
+
+
+
 }
