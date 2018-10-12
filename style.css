@@ -1,0 +1,28 @@
+body {
+  background: grey;
+  margin: 0px;
+}
+
+.active nav-item {
+  background-color: purple !important;
+}
+
+#homeHead {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 72px;
+  padding: 200px;
+  background-color: black;
+  color: white;
+  margin: 0px;
+}
+
+nav {
+  padding-top: 0px;
+  background-color: grey;
+  margin: 0px;
+}
+
+.nav a {
+  color: white;
+}
